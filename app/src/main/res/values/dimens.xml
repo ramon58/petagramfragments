@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="corner_radio_card">4dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="padd_10">10dp</dimen>
+    <dimen name="padd_3">3dp</dimen>
+    <dimen name="ancho_cardview">280dp</dimen>
+    <dimen name="alto_foto">325dp</dimen>
+    <dimen name="ancho_foto">325dp</dimen>
+    <dimen name="size_text_tittle">20sp</dimen>
+    <dimen name="size_text_rating">18sp</dimen>
+    <dimen name="tam_titulo">25sp</dimen>
+    <dimen name="tam_texo_label">15sp</dimen>
+
+    <dimen name="alto_foto_bio">144dp</dimen>
+    <dimen name="ancho_foto_bio">300dp</dimen>
+    <dimen name="size_texto_bio">18sp</dimen>
+
+    <dimen name="alto_foto_perfil">90dp</dimen>
+    <dimen name="ancho_foto_perfil">90dp</dimen>
+    <dimen name="alto_icono_perfil">25dp</dimen>
+    <dimen name="ancho_icono_perfil">25dp</dimen>
+</resources>
